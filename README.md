@@ -214,10 +214,10 @@ Features to add / Things to fix:
 - [ ] Save/load resume profiles from storage
 - [ ] Rich side-by-side original vs improved diff view
 
-## Contributing
+## 🎟️ Contributing
 
-If you'd like to contribute to these dotfiles, please feel free to submit a pull request or open an issue to discuss changes and proceed with the usual procedure. In case of any issues or troubles, feel free to check out the [`CONTRIBUTING`](./CONTRIBUTING.md) file or reach out to me via email or DMs.
+If you'd like to contribute to this project, please feel free to submit a pull request or open an issue to discuss changes and proceed with the usual procedure. In case of any issues or troubles, feel free to check out the [`CONTRIBUTING`](./CONTRIBUTING.md) file or reach out to me via email or DMs.
 
-## License
+## 🗃️ License
 
 These dotfiles are released under the BSD 2-Clause "Simplified" License. See the [`LICENSE`](./LICENSE) file for details.
