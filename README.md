@@ -1,17 +1,11 @@
 <div align="center">
 <img src=".assets/banner-test.png" width="100%" height="100%" alt="Readme Banner">
-</div>
-
-<div align="center">
 
 # AI Resume Builder
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
 ![Internship](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **AI-assisted resume builder that collects structured profile data, improves content, scores JD relevance, and exports polished PDFs.**
