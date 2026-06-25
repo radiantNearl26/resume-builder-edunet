@@ -6,17 +6,15 @@
 
 # AI Resume Builder
 
-[Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-[Internship](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Internship](https://img.shields.io/badge/IBM_SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **AI-assisted resume builder that collects structured profile data, improves content, scores JD relevance, and exports polished PDFs.**
-
-_Built during AI/ML Internship with Edunet Foundation, supported by IBM SkillsBuild_
 
 [Overview](#-overview) • [Features](#-features) • [Architecture](#-system-architecture) • [Technologies](#-technologies-used) • [Screenshots](#-screenshots) • [Structure](#-project-structure) • [Installation](#️-installation)
 
@@ -25,7 +23,7 @@ _Built during AI/ML Internship with Edunet Foundation, supported by IBM SkillsBu
 ## 🚀 Overview
 
 > [!NOTE]
-> 🏆 Built as the capstone project for the **IBM SkillsBuild AI/ML Internship** in partnership with **Edunet Foundation**
+> Built as the capstone project for the **IBM SkillsBuild AI/ML Internship** in partnership with **Edunet Foundation**
 
 This is a Streamlit web application that helps users build better resumes using a guided section-based form. It validates resume input, suggests stronger summaries and experience bullets, computes ATS-style quality and job-match metrics, and generates export-ready PDF resumes.
 
@@ -94,7 +92,7 @@ This project provides an end-to-end resume workflow: structured data intake, sch
 
 ## 🧑‍💻 Technologies Used
 
-> [CAUTION]
+> [!CAUTION]
 > Ensure that the libraries are installed. requirements.txt file is also provded.
 
 ### Core
@@ -116,6 +114,9 @@ This project provides an end-to-end resume workflow: structured data intake, sch
 | `pytest`       | Unit testing for validators, scoring, and export |
 
 ## 📷 Screenshots
+
+> [!NOTE]
+> Screenshots of the app in action. The UI can also be set to light mode.
 
 ![Main form](.assets/main.png)
 ![Sections and workflow](.assets/sections.png)
